@@ -1,0 +1,1 @@
+/usr/sbin/c++ -Wl,--dependency-file=CMakeFiles/ObjectSerialization.dir/link.d CMakeFiles/ObjectSerialization.dir/test/test_serialization.cpp.o -o ObjectSerialization  /usr/lib/libtinyxml2.so.11.0.0

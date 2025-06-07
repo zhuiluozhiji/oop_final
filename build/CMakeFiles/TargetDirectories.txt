@@ -1,0 +1,3 @@
+/home/dingzhen/Projects/oop/final8/object-serialization/build/CMakeFiles/ObjectSerialization.dir
+/home/dingzhen/Projects/oop/final8/object-serialization/build/CMakeFiles/edit_cache.dir
+/home/dingzhen/Projects/oop/final8/object-serialization/build/CMakeFiles/rebuild_cache.dir
